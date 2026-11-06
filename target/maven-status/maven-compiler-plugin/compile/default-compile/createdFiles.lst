@@ -1,0 +1,6 @@
+Vista/DescargaForm.class
+Modelo/ArchivoDescarga.class
+Controlador/DescargaController.class
+Modelo/ArchivoDescarga$Listener.class
+Excepciones/TiempoExcedidoException.class
+com/mycompany/modulodescargaasincrono/ModuloDescargaAsincrono.class
